@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="btn_add">Добавить</string>
+    <string name="btnDekItm">Удалить</string>
+
+    <string name="weather_sunny" translatable="false">&#xf00d;</string>
+    <string name="weather_clear_night" translatable="false">&#xf02e;</string>
+    <string name="weather_foggy" translatable="false">&#xf014;</string>
+    <string name="weather_cloudy" translatable="false">&#xf013;</string>
+    <string name="weather_rainy" translatable="false">&#xf019;</string>
+    <string name="weather_snowy" translatable="false">&#xf01b;</string>
+    <string name="weather_thunder" translatable="false">&#xf01e;</string>
+    <string name="weather_drizzle" translatable="false">&#xf01c;</string>
+    <string name="btn_detail">Прогноз</string>
+    <string name="btn_item_refresh">Обновить</string>
+    <string name="title_activity_forecast">Прогноз</string>
+    <string name="last_update">Последнее обновление</string>
+    <string name="humidity">Влажность</string>
+    <string name="pressure">Давление</string>
+    <string name="min_temp">Мин</string>
+    <string name="max_temp">Макс</string>
+    <string name="refresh_error">ошибка обновления</string>
+    <string name="input_city_name">Введите название города (Kazan,RU)</string>
+    <string name="no_data">нет данных</string>
+    <string name="btn_delete_description">Удаление города</string>
+</resources>
